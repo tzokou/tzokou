@@ -81,8 +81,8 @@ I enjoy working on **real-world datasets**, building **dashboards**, **ETL pipel
 
 ### 📫 How to Reach Me
 
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/thierry-pascal-zokou-tchokonthe-b46655184/
+  
 
 ---
 
