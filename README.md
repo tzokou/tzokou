@@ -1,96 +1,79 @@
-## Hi there 👋 I'm Thierry Zokou
+# 👋 Hi, I'm Thierry Zokou
 
-🎓 **Applied Data Science Student** (Canada)  
-📊 **Data Analyst / BI Enthusiast** with a strong background in **Accounting & Finance**  
-🌍 Based in Canada | Open to internships, co-op, and junior data roles
-
----
-
-### 👨‍💻 About Me
-
-I am currently a **first-year student in Applied Data Science** at *Collège La Cité*, transitioning from over **15 years of professional experience in accounting, finance, and operations**.
-
-My goal is to combine **business understanding** with **data analytics, automation, and visualization** to support data-driven decision-making.
-
-I enjoy working on **real-world datasets**, building **dashboards**, **ETL pipelines**, and applying **machine learning models** to practical problems.
+🎓 Applied Data Science student based in **Ottawa, Canada**  
+📊 Aspiring **Data Analyst / BI Analyst / Junior Data Engineer**
 
 ---
 
-### 🧠 Skills & Technologies
+## 🚀 About Me
 
-**Data & Analytics**
-- Python (Pandas, NumPy, scikit-learn)
-- SQL (SQL Server)
-- Data cleaning & preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning (classification, clustering, evaluation)
+I am currently studying **Applied Data Science** with a strong interest in turning raw
+data into **actionable insights** for business and decision-making.
 
-**Business Intelligence**
-- Power BI (DAX, dashboards, KPIs)
-- Tableau / Tableau Prep
-- Excel (advanced formulas, data analysis)
+My focus areas include:
+- data analysis and visualization
+- machine learning pipelines
+- data quality, preprocessing, and validation
+- big data analytics (Spark, Hadoop)
 
-**Big Data & Engineering (learning)**
-- Hadoop & MapReduce
-- Spark (basics)
-- Docker (data projects environments)
-
-**Other Background**
-- Accounting & Financial Analysis
-- Process optimization
-- Reporting & compliance
+I enjoy working on **realistic, end-to-end projects** that reflect industry use cases.
 
 ---
 
-### 🔭 Current Focus
+## 🛠️ Technical Skills
 
-- 📌 Academic projects in **data analysis and machine learning**
-- 📌 Building a **data portfolio on GitHub**
-- 📌 Learning **data engineering foundations** (ETL, pipelines)
-- 📌 Preparing for **co-op / internship opportunities** in data & analytics
-
----
-
-### 📂 Featured Projects (coming soon)
-
-- 🧠 Brain Tumor Classification (MRI Images – CNN)
-- 📊 Power BI Business Dashboards
-- 🚦 Ontario 511 Data ETL & Analysis
-- 📈 Data Cleaning & ML Case Studies
-
-*(Projects will be progressively documented and published here.)*
+- **Programming**: Python, SQL  
+- **Data Analysis**: pandas, numpy, matplotlib, seaborn  
+- **Machine Learning**: scikit-learn, SMOTE, feature selection  
+- **Big Data**: Apache Spark, Hadoop, PySpark  
+- **Tools**: Jupyter Notebook, Git/GitHub, Power BI (intro)
 
 ---
 
-### 🌱 Currently Learning
+## ⭐ Featured Projects
 
-- Machine Learning & Deep Learning
-- Data visualization best practices
-- Ethical & secure data handling
-- Big data processing concepts
-
----
-
-### 🤝 Looking to Collaborate On
-
-- Beginner-friendly data science projects
-- Data analysis & visualization use cases
-- Academic or open-source data projects
+### 🔹 Bank Marketing – Machine Learning Pipeline  
+📌 End-to-end preprocessing, feature selection, and supervised learning on real banking data.  
+👉 Repository:  
+https://github.com/tzokou/pipeline-ia-pretraitement-bank-marketing
 
 ---
 
-### 📫 How to Reach Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/thierry-pascal-zokou-tchokonthe-b46655184/
-  
-
----
-
-### ⚡ Fun Fact
-
-I’m combining **finance, business logic, and data science** to bridge the gap between **numbers and decisions**.
+### 🔹 Big Data E-commerce Analysis with Apache Spark  
+📌 Distributed data processing and analytics using Spark on a large e-commerce dataset (Olist).  
+👉 Repository:  
+https://github.com/tzokou/pipeline-big-data-spark-olist
 
 ---
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+### 🔹 NexaStore – Strategic Reporting & Data Analysis  
+📌 Business-oriented data analysis and reporting to support commercial decision-making.  
+👉 Repository:  
+https://github.com/tzokou/analyse-nexastore-reporting
+
+---
+
+### 🔹 E-commerce Data Fusion & Validation  
+📌 Data cleaning, harmonization, multi-source integration (CSV & JSON), and quality control.  
+👉 Repository:  
+https://github.com/tzokou/fusion-validation-donnees-ecommerce
+
+---
+
+### 🔹 Clinical Data Analysis – Hepatitis Dataset  
+📌 Exploratory data analysis to identify clinical and biological factors associated with patient survival.  
+👉 Repository:  
+https://github.com/tzokou/analyse-hepatite-survie-patients
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/tzokou  
+- LinkedIn: https://www.linkedin.com/in/thierry-pascal-zokou-tchokonthe-b46655184/  
+
+---
+
+⭐ *Always learning, always improving — with a strong focus on practical, data-driven solutions.*
+
 
