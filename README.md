@@ -70,7 +70,8 @@ https://github.com/tzokou/analyse-hepatite-survie-patients
 ## 📫 Contact
 
 - GitHub: https://github.com/tzokou  
-- LinkedIn: https://www.linkedin.com/in/thierry-pascal-zokou-tchokonthe-b46655184/  
+- LinkedIn: https://www.linkedin.com/in/thierry-pascal-zokou-tchokonthe-b46655184/
+- Porfolio: https://tzokou.github.io/  
 
 ---
 
